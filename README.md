@@ -1,4 +1,4 @@
-# Lenguaje de alto nivel con sistema de tipos para las tecnologías Docker y Kubernetes.
+# Lenguaja de alto nivel con sistema de tipos para las tecnologías Docker y Kubernetes.
 
 ## Descripción
 
